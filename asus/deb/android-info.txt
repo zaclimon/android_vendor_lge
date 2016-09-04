@@ -1,0 +1,5 @@
+require board=deb
+
+require version-bootloader=FLO-04.08
+
+require version-baseband=DEB-Z00_2.44.0_0213
